@@ -1,7 +1,5 @@
 # Week 1 · Notes
 
-> Ejemplo de estructura. Reescribe cada punto con tus palabras: si no puedes explicarlo, aún no lo has entendido.
-
 ## Qué construí
 - `day1.ipynb`: generador de asuntos de correo. Recibe el texto de un email y devuelve un asunto de máximo 10 palabras en el mismo idioma.
 
